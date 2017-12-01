@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace ConsoleApp4
+namespace funcoesmatematicas
 {
     class Program
     {
